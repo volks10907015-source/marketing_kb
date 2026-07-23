@@ -3,3 +3,4 @@
 ---
 
 XXXX
+![Pasted image 20260723132109.png](/img/user/Pasted%20image%2020260723132109.png)
