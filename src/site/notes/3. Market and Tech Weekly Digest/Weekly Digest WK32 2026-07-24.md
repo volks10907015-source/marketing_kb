@@ -13,7 +13,6 @@ Two developments are worth tracking this week:
 ---
 
 # 01 | Kimi K3 — Open-Weight AI Pushes Competition Toward Cost & Infrastructure
-
 ## What Happened?
 
 Moonshot AI introduced **Kimi K3**, its latest flagship AI model.
@@ -32,9 +31,7 @@ Kimi K3 further demonstrates that high-end AI capability is no longer limited to
 Demand for Kimi was also strong enough that Moonshot temporarily limited new subscriptions because of compute-capacity constraints.
 
 ---
-
 ## Why It Matters
-
 ### 1. Frontier AI Is Becoming More Open
 
 Historically:
