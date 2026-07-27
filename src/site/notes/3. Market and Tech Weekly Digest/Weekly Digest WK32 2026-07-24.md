@@ -2,7 +2,9 @@
 {"dg-publish":true,"permalink":"/3-market-and-tech-weekly-digest/weekly-digest-wk-32-2026-07-24/","dg-note-properties":{}}
 ---
 
-# Executive Summary
+# Weekly Digest WK32 2026-07-24 
+
+## Executive Summary
 
 Two developments are worth tracking this week:
 
